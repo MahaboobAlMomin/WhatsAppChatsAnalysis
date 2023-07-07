@@ -1,5 +1,4 @@
 # WhatsAppChatAnalysis
-#overview of project
 WhatsApp chat analysis involves examining conversations and data within WhatsApp chats to gain insights. It includes analyzing text messages, multimedia content, and metadata to extract meaningful information. This analysis can be used for sentiment analysis, topic extraction, network analysis, user behavior analysis, and content analysis. By understanding the sentiment, topics discussed, user behavior, and relationships within the chats, businesses, researchers, and individuals can make informed decisions, improve communication strategies, understand customer preferences, and conduct research studies. WhatsApp chat analysis provides valuable insights into conversations and enhances our understanding of user interactions on the platform.
 
 ### Uses:
